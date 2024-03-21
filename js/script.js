@@ -19,5 +19,5 @@ function enterClicked() {
 
   // output
   document.getElementById("answer").innerHTML =
-    "Area of this triangle is: " + answerStepTwo + 
+    "Area of this triangle is: " + answerStepTwo + " cm²"
 }
